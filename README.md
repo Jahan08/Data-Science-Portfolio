@@ -9,3 +9,7 @@ Part II - Here we take the dataset from part 1 and use the SMILES notation to co
 
 
 Part III - we will use data from Part II with pIC50 and gping to use prepare data with molecular fingerprints comparison data of the coumpounds and pIC50. which gping to be used in Part IV. To compare molecular fingerprints of our compounds with pubchem fingerprints database we will use padel.
+
+
+
+##### Here files are in .jason extension. Before running them on google colab rename them as .ipynb and work on them #######
