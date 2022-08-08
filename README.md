@@ -1,0 +1,3 @@
+# Data-Science-Portfolio
+Here we showed some Bioinformatics data preprocessing. Preprocessing is ver staright forward, 
+just go ahead and run the cell. Also expalined by elaborated commments. Happy coding....
