@@ -10,6 +10,8 @@ Part II - Here we take the dataset from part 1 and use the SMILES notation to co
 
 Part III - we will use data from Part II with pIC50 and gping to use prepare data with molecular fingerprints comparison data of the coumpounds and pIC50. which gping to be used in Part IV. To compare molecular fingerprints of our compounds with pubchem fingerprints database we will use padel.
 
+Lipinski rule of five ---> describe the global properties of the compounds which can give an idea of the druglikeliness of the compounds 
 
+While fingerprint comparison provides the local feature of the compounds. If we consider a compund as combination of several lego blocks, each block can be responsible for unique behavior of that molecule. so fingerprint similarity shows the how similar or disimilar our compunds with the existing fingerprints database.
 
 ##### Here files are in .jason extension. Before running them on google colab rename them as .ipynb and work on them #######
