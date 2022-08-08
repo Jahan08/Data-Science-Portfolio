@@ -3,4 +3,4 @@ Here we showed some Bioinformatics data preprocessing. Preprocessing is very sta
 just go ahead and run the cells. Also each code chunk is expalined by elaborated commments. Happy coding....
 
 
-Part I - Preprocess the coronavirus inhibitor data imported from  CheMBL database.
+Part I - Preprocessing of the coronavirus inhibitor data imported from  CheMBL database.
