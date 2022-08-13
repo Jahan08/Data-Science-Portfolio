@@ -32,7 +32,6 @@ A possible solution would be to start with a model that works fairly well for ma
 Most likely, at some point in time you also considered throwing all the models at the dataset and just seeing what will happen. 
 lazypredict is the handy library which can train all the models available in scikit-learn with single line of code. 
 
-Part VI - Here we are going to elarn how to deploy the machine learning model as a web app. Essentially, this web app will serve 
-as a Bioinformtics tool taht will allow users the ability to predict whether a compound of interest has favorable biological activity against the target protein or not.
+Part VI - 
 
 
