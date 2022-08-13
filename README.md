@@ -32,6 +32,7 @@ A possible solution would be to start with a model that works fairly well for ma
 Most likely, at some point in time you also considered throwing all the models at the dataset and just seeing what will happen. 
 lazypredict is the handy library which can train all the models available in scikit-learn with single line of code. 
 
-Such predictive models can provide the informtaion regardring the structural functional group/s of that specific compound which give/s rise that inhibitory/activatory property.
+Such predictive models will allow biologist and chemist to understand the relationship between which molecular features give 
+rise to the bilogical activity 
 
 
