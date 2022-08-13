@@ -25,6 +25,11 @@ While fingerprint comparison provides the local feature of the compounds. If we 
 
 Here we have shown how to use computed molecular descriptors from Part III (as the X variables) to build a regression model for predicting the pIC50 values (the Y variable)
 
+MOlecular Descriptors are generally have binary representation 0 (absence of particular molecular features) and 1 
+(presence of particular molecular features)
+
+By using this X (molecular descriptors), Y (biologically active) dataset we are going to use devlop ML model to predict Y for new compounds
+
 Part V - here we demonstarte how to quickly build and compare several regression models () of the coronavirus inhibitors using the lazypredict library in Python
 
 While starting to work on a supervised learning problem, we are often not sure which models will work with the dataset at hand.
