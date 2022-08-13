@@ -23,7 +23,7 @@ Lipinski rule of five ---> describe the global properties of the compounds which
 
 While fingerprint comparison provides the local feature of the compounds. If we consider a compund as combination of several lego blocks, each block can be responsible for unique behavior of that molecule. so fingerprint similarity shows the how similar or disimilar our compunds with the existing fingerprints database.
 
-Her we have shown how to use computed molecular descriptors from Part III (as the X variables) to build a regression model for predicting the pIC50 values (the Y variable)
+Here we have shown how to use computed molecular descriptors from Part III (as the X variables) to build a regression model for predicting the pIC50 values (the Y variable)
 
 Part V - here we demonstarte how to quickly build and compare several regression models () of the coronavirus inhibitors using the lazypredict library in Python
 
@@ -31,5 +31,8 @@ While starting to work on a supervised learning problem, we are often not sure w
 A possible solution would be to start with a model that works fairly well for many datasets i.e. Random forest and then iterate.  
 Most likely, at some point in time you also considered throwing all the models at the dataset and just seeing what will happen. 
 lazypredict is the handy library which can train all the models available in scikit-learn with single line of code. 
+
+Part VI - Here we are going to elarn how to deploy the machine learning model as a web app. Essentially, this web app will serve 
+as a Bioinformtics tool taht will allow users the ability to predict whether a compound of interest has favorable biological activity against the target protein or not.
 
 
