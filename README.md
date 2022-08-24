@@ -25,7 +25,7 @@ While fingerprint comparison provides the local feature of the compounds. If we 
 
 Here we have shown how to use computed molecular descriptors from Part III (as the X variables) to build a regression model for predicting the pIC50 values (the Y variable)
 
-MOlecular Descriptors are generally have binary representation 0 (absence of particular molecular features) and 1 
+Molecular Descriptors are generally have binary representation 0 (absence of particular molecular features) and 1 
 (presence of particular molecular features)
 
 By using this X (molecular descriptors), Y (biologically active) dataset we are going to use devlop ML model to predict Y for new compounds
